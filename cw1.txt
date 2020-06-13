@@ -1,0 +1,12 @@
+ int x = 20;
+int y = 15;
+
+int c = x+y;
+int w = x*y;
+boolean a = c==w;
+
+System.out.println(c);
+System.out.println(w);
+System.out.println(a);
+
+  
